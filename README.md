@@ -109,7 +109,7 @@ npm start           # Runs React frontend on localhost:3000
 
 ## 🧑‍💻 How to Contribute
 
-We welcome contributors of **all experience levels**, especially **beginners** participating through **GirlScript Summer of Code (GSSoC) 2025** and beyond.
+We welcome contributors of **all experience levels**, especially **beginners** participating through **GirlScript Summer of Code (GSSoC) 2026** and beyond.
 
 Follow the steps below to begin your contribution journey:
 
